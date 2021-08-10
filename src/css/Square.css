@@ -1,0 +1,8 @@
+.Square {
+      width: 10%;
+      height: 100%;
+      background-color: aqua;
+
+      border-width: 1px;
+      border-style: solid;
+}
